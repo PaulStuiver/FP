@@ -29,6 +29,8 @@ Simply run the running files from top to bottom in order to run the simulations.
 Each folder is equipped with .pkl files that are saved variables so you don't have to run this time and again. 
 In each running file, the boolean 'alreadyrun' in each cell determines whether you want to use the saved variables (1) or not (0)
 
+IMPORTANT: the variables related to the FOM snapshots are too big to upload. Set alreadyrun to 0 to obtain the corresponding variables.
+
 Additionally, the respective folders contain the following:
 
 Linear_poisson:
