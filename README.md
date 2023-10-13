@@ -18,11 +18,11 @@ Dolfin Version 2019.1.0
 
 Each folder corresponds to a problem of interest. All folders contain the files
   * functions.ipynb
-    A file containing all functions with detailed description of the inputs and outputs
+    * A file containing all functions with detailed description of the inputs and outputs
   * Results.ipynb
-    A running file containing the performance results of the reduced-order models (ROMs) as they are obtained in the thesis
+    * A running file containing the performance results of the reduced-order models (ROMs) as they are obtained in the thesis
   * FOM_snapshots_LL_P1.ipynb
-    A file that computes solutions to the full-order model (FOM) of the respective problem
+    * A file that computes solutions to the full-order model (FOM) of the respective problem
 
 Simply run the running files from top to bottom in order to run the simulations.
 
@@ -33,27 +33,27 @@ Additionally, the respective folders contain the following:
 
 Linear_poisson:
   * Failure_probability.ipynb
-    A running file containing the results of the failure probability
+    * A running file containing the results of the failure probability
   * Hybrid_snapshots_LL_P1.ipynb
-    A file that computes solutions to the hybrid model
+    * A file that computes solutions to the hybrid model
   * Importance_Sampling_FOM.ipynb
-    A file that computes solutions to the FOM applied with importance sampling
+    * A file that computes solutions to the FOM applied with importance sampling
 
 Nonlinear_diffusion:
   * Adding_modes.ipynb
-    A running file containing the results of adding modes
+    * A running file containing the results of adding modes
   * GD_Newton_BFGS.ipynb
-    A running file containing the results of the iterative solvers
+    * A running file containing the results of the iterative solvers
   * MC_simulations.ipynb
-    A file that computes Monte Carlo samples of the FOM
+    * A file that computes Monte Carlo samples of the FOM
   * MC_simulations_ROM.ipynb
-    A file that computes Monte Carlo samples of the ROM
+    * A file that computes Monte Carlo samples of the ROM
   * PDF_estimation
-    A running file containing the results of the PDF estimation
+    * A running file containing the results of the PDF estimation
 
 Nonlinear_reaction:
   * Estimating_statistical_information.ipynb
-    A running file containing the results of estimating the statistical information
+    * A running file containing the results of estimating the statistical information
 
 ## Contact
 
