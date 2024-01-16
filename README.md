@@ -59,4 +59,4 @@ Nonlinear_reaction:
 
 ## Contact
 
-Mail: stuivertje13@gmail.com
+Mail: paulstuiver13@gmail.com
